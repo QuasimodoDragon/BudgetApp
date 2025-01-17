@@ -1,0 +1,11 @@
+- [x] Add character limit to description
+- [x] Make double validation method for amount inputs
+- [x] Make arraylist.add code a method that takes income or expense as parameters
+- [x] Replace if statements with methods that use user inputs as arguments
+- [x] Add dollar sign to amounts
+- [x] Complete exception handling
+- [x] Make class for income and expenses to make it easier to handle and organize
+- [ ] Make choice to clear only one table
+- [x] Initialize scanner outside of while loop
+- [x] Complete formatting
+- [ ] Project document debugging section write about user input validation
